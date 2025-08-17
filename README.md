@@ -41,9 +41,10 @@ Hi, I'm a 16 y/o who got lost in space (movies, not literally... yet).
                                           ╚════════════════════════════════════════╝
 </pre>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+
+
 
 ---
+
+![snake](https://raw.githubusercontent.com/wcuriouss/wcuriouss/output/dist/github-snake.svg)
 
