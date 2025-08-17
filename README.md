@@ -46,5 +46,4 @@ Hi, I'm a 16 y/o who got lost in space (movies, not literally... yet).
 
 ---
 
-![snake](https://raw.githubusercontent.com/wcuriouss/wcuriouss/output/dist/github-snake.svg)
 
